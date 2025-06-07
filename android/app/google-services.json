@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1011854802210",
+    "project_id": "rocis-mathnotes",
+    "storage_bucket": "rocis-mathnotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011854802210:android:f23bda9317ad9bb9a1397b",
+        "android_client_info": {
+          "package_name": "com.example.mathnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011854802210-2gc25d1o1ug63rij48f7n089m8q3nrnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathnotes",
+            "certificate_hash": "4701fe437fd9f005beeb67c259e772bc2ae37303"
+          }
+        },
+        {
+          "client_id": "1011854802210-jbasnrc5tlp07rbhr4j5fonr50apt47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQuAo5V4pg0gZWU6iqhRKn5Tj1Ur13sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011854802210-jbasnrc5tlp07rbhr4j5fonr50apt47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011854802210-pf4i46l3734qh09g09ojj8td2kfpkhpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mathnotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011854802210:android:a74e8e0b2b5dc7bea1397b",
+        "android_client_info": {
+          "package_name": "com.rocis.mathnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011854802210-v1v47sjt53eqrvf6q1j8gicdqfot0k2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rocis.mathnotes",
+            "certificate_hash": "4701fe437fd9f005beeb67c259e772bc2ae37303"
+          }
+        },
+        {
+          "client_id": "1011854802210-jbasnrc5tlp07rbhr4j5fonr50apt47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQuAo5V4pg0gZWU6iqhRKn5Tj1Ur13sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011854802210-jbasnrc5tlp07rbhr4j5fonr50apt47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011854802210-pf4i46l3734qh09g09ojj8td2kfpkhpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mathnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

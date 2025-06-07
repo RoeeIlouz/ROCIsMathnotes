@@ -1,0 +1,1054 @@
+{
+  "appTitle": "MathNotes",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "notes": "Notes",
+  "notebooks": "Notebooks",
+  "tags": "Tags",
+  "settings": "Settings",
+  "newNote": "New Note",
+  "newNotebook": "New Notebook",
+  "search": "Search",
+  "@search": {
+    "description": "Search action"
+  },
+  "startTypingToSearch": "Start typing to search notes...",
+  "@startTypingToSearch": {
+    "description": "Search placeholder text"
+  },
+  "drawing": "Drawing",
+  "handwriting": "Handwriting",
+  "text": "Text",
+  "math": "Math",
+  "formula": "Formula",
+  "graph": "Graph",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "share": "Share",
+  "export": "Export",
+  "import": "Import",
+  "exportData": "Export Data",
+  "@exportData": {
+    "description": "Export data option title"
+  },
+  "exportAllNotesAndNotebooks": "Export all notes and notebooks",
+  "@exportAllNotesAndNotebooks": {
+    "description": "Export data option description"
+  },
+  "importData": "Import Data",
+  "@importData": {
+    "description": "Import data option title"
+  },
+  "importNotesFromFile": "Import notes from file",
+  "@importNotesFromFile": {
+    "description": "Import data option description"
+  },
+  "sync": "Sync",
+  "backup": "Backup",
+  "restore": "Restore",
+  "darkTheme": "Dark Theme",
+  "lightTheme": "Light Theme",
+  "language": "Language",
+  "english": "English",
+  "hebrew": "Hebrew",
+  "recognizeHandwriting": "Recognize Handwriting",
+  "generateGraph": "Generate Graph",
+  "summarizeNote": "Summarize Note",
+  "aiFeatures": "AI Features",
+  "cloudSync": "Cloud Sync",
+  "signIn": "Sign In",
+  "signOut": "Sign Out",
+  "account": "Account",
+  "notebook": "Notebook",
+  "tag": "Tag",
+  "title": "Title",
+  "content": "Content",
+  "created": "Created",
+  "modified": "Modified",
+  "size": "Size",
+  "color": "Color",
+  "thickness": "Thickness",
+  "opacity": "Opacity",
+  "tool": "Tool",
+  "pen": "Pen",
+  "pencil": "Pencil",
+  "marker": "Marker",
+  "eraser": "Eraser",
+  "undo": "Undo",
+  "redo": "Redo",
+  "clear": "Clear",
+  "selectAll": "Select All",
+  "copy": "Copy",
+  "paste": "Paste",
+  "cut": "Cut",
+  "bold": "Bold",
+  "italic": "Italic",
+  "underline": "Underline",
+  "fontSize": "Font Size",
+  "fontFamily": "Font Family",
+  "textColor": "Text Color",
+  "backgroundColor": "Background Color",
+  "alignment": "Alignment",
+  "left": "Left",
+  "center": "Center",
+  "right": "Right",
+  "justify": "Justify",
+  "bulletList": "Bullet List",
+  "numberedList": "Numbered List",
+  "checklist": "Checklist",
+  "insertImage": "Insert Image",
+  "insertTable": "Insert Table",
+  "insertLink": "Insert Link",
+  "mathExpression": "Math Expression",
+  "enterFormula": "Enter Formula",
+  "invalidFormula": "Invalid Formula",
+  "processingAI": "Processing with AI...",
+  "aiError": "AI processing failed",
+  "syncSuccess": "Sync successful",
+  "syncError": "Sync failed",
+  "noInternet": "No internet connection",
+  "loading": "Loading...",
+  "retry": "Retry",
+  "close": "Close",
+  "confirm": "Confirm",
+  "warning": "Warning",
+  "error": "Error",
+  "success": "Success",
+  "info": "Info",
+  "deleteNoteConfirm": "Are you sure you want to delete this note?",
+  "deleteNotebookConfirm": "Are you sure you want to delete this notebook and all its notes?",
+  "unsavedChanges": "You have unsaved changes. Do you want to save them?",
+  "notebookName": "Notebook Name",
+  "tagName": "Tag Name",
+  "noteTitle": "Note Title",
+  "searchNotes": "Search notes...",
+  "noNotesFound": "No notes found",
+  "noNotebooksFound": "No notebooks found",
+  "createFirstNote": "Create your first note",
+  "createFirstNotebook": "Create your first notebook",
+  "recentNotes": "Recent Notes",
+  "allNotes": "All Notes",
+  "favorites": "Favorites",
+  "trash": "Trash",
+  "addToFavorites": "Add to Favorites",
+  "removeFromFavorites": "Remove from Favorites",
+  "moveToTrash": "Move to Trash",
+  "restoreFromTrash": "Restore from Trash",
+  "permanentlyDelete": "Permanently Delete",
+  "emptyTrash": "Empty Trash",
+  "exportToPDF": "Export to PDF",
+  "exportToImage": "Export to Image",
+  "exportToText": "Export to Text",
+  "importFromFile": "Import from File",
+  "selectNotebook": "Select Notebook",
+  "selectTags": "Select Tags",
+  "addTag": "Add Tag",
+  "removeTag": "Remove Tag",
+  "editTag": "Edit Tag",
+  "deleteTag": "Delete Tag",
+  "viewNotes": "View Notes",
+  "justNow": "Just now",
+  "minuteAgo": "1 minute ago",
+  "minutesAgo": "{count} minutes ago",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hourAgo": "1 hour ago",
+  "hoursAgo": "{count} hours ago",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dayAgo": "1 day ago",
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "monthAgo": "1 month ago",
+  "monthsAgo": "{count} months ago",
+  "@monthsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "yearAgo": "1 year ago",
+  "yearsAgo": "{count} years ago",
+  "@yearsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "new_": "New",
+  "popular": "Popular",
+  "framework": "Framework",
+  "platform": "Platform",
+  "database": "Database",
+  "cloudStorage": "Cloud Storage",
+  "aiProvider": "AI Provider",
+  "@aiProvider": {
+    "description": "Label for AI provider information"
+  },
+  "licenses": "Licenses",
+  "@licenses": {
+    "description": "Label for licenses section"
+  },
+  "viewOpenSourceLicenses": "View open source licenses",
+  "@viewOpenSourceLicenses": {
+    "description": "Subtitle for licenses section"
+  },
+  "technicalInfo": "Technical Information",
+  "@technicalInfo": {
+    "description": "Label for technical information section"
+  },
+  "aiFeatures": "AI Features",
+  "@aiFeatures": {
+    "description": "Label for AI features page"
+  },
+  "sync": "Sync",
+  "@sync": {
+    "description": "Label for sync page"
+  },
+  "appDescription": "MathNotes is a comprehensive note-taking application designed specifically for mathematics students and professionals. Create, organize, and manage your mathematical notes with ease.",
+  "@appDescription": {
+    "description": "Description of the MathNotes application"
+  },
+  "copiedToClipboard": "Copied to clipboard",
+  "@copiedToClipboard": {
+    "description": "Message shown when content is copied to clipboard"
+  },
+  "appName": "MathNotes",
+  "@appName": {
+    "description": "Name of the application"
+  },
+  "website": "Website",
+  "@website": {
+    "description": "Label for website link"
+  },
+  "sourceCode": "Source Code",
+  "@sourceCode": {
+    "description": "Label for source code link"
+  },
+  "contactUs": "Contact Us",
+  "@contactUs": {
+    "description": "Contact us section title"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email label"
+  },
+  "keyFeatures": "Key Features",
+  "@keyFeatures": {
+    "description": "Key features section title"
+  },
+  "handwritingRecognition": "Handwriting Recognition",
+  "@handwritingRecognition": {
+    "description": "Handwriting recognition feature"
+  },
+  "convertHandwritingToText": "Convert handwriting to text automatically",
+  "@convertHandwritingToText": {
+    "description": "Handwriting recognition setting description"
+  },
+  "mathGraphGeneration": "Math Graph Generation",
+  "@mathGraphGeneration": {
+    "description": "Math graph generation feature"
+  },
+  "noteSummarization": "Note Summarization",
+  "@noteSummarization": {
+    "description": "Note summarization feature"
+  },
+  "cloudSync": "Cloud Sync",
+  "@cloudSync": {
+    "description": "Cloud synchronization feature"
+  },
+  "multiLanguageSupport": "Multi-Language Support",
+  "@multiLanguageSupport": {
+    "description": "Multi-language support feature"
+  },
+  "darkAndLightThemes": "Dark and Light Themes",
+  "@darkAndLightThemes": {
+    "description": "Dark and light themes feature"
+  },
+  "licenses": "Licenses",
+  "@licenses": {
+    "description": "Software licenses"
+  },
+  "technicalInfo": "Technical Information",
+  "@technicalInfo": {
+    "description": "Technical information section title"
+  },
+  "framework": "Framework",
+  "@framework": {
+    "description": "Development framework"
+  },
+  "platform": "Platform",
+  "@platform": {
+    "description": "Supported platforms"
+  },
+  "database": "Database",
+  "@database": {
+    "description": "Database technology"
+  },
+  "cloudStorage": "Cloud Storage",
+  "@cloudStorage": {
+    "description": "Cloud storage provider"
+  },
+  "aiProvider": "AI Provider",
+  "@aiProvider": {
+    "description": "AI service provider"
+  },
+  "createNewTag": "Create New Tag",
+  "@createNewTag": {
+    "description": "Create new tag button text"
+  },
+  "enterTagName": "Enter tag name",
+  "@enterTagName": {
+    "description": "Placeholder text for tag name input"
+  },
+  "create": "Create",
+  "@create": {
+    "description": "Create button text"
+  },
+  "tagAlreadyExists": "Tag already exists",
+  "@tagAlreadyExists": {
+    "description": "Error message when trying to create a tag that already exists"
+  },
+  "pleaseEnterTagName": "Please enter a tag name",
+  "@pleaseEnterTagName": {
+    "description": "Validation message for empty tag name field"
+  },
+  "invalidTagName": "Invalid tag name",
+  "@invalidTagName": {
+    "description": "Validation message for invalid tag name"
+  },
+  "selectColor": "Select Color",
+  "@selectColor": {
+    "description": "Label for color selection in tag creation"
+  },
+  "commonTags": "Common Tags",
+  "@commonTags": {
+    "description": "Label for common tags section"
+  },
+  "selectIcon": "Select Icon",
+  "@selectIcon": {
+    "description": "Label for icon selection in notebook creation"
+  },
+  "favoriteNotebookDescription": "Mark as favorite notebook",
+  "@favoriteNotebookDescription": {
+    "description": "Description for favorite notebook checkbox"
+  },
+  "createTag": "Create Tag",
+  "@createTag": {
+    "description": "Title for create tag dialog"
+  },
+  "pleaseEnterNotebookName": "Please enter a notebook name",
+  "@pleaseEnterNotebookName": {
+    "description": "Validation message for empty notebook name field"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Label for description field"
+  },
+  "optionalDescription": "Optional description",
+  "@optionalDescription": {
+    "description": "Placeholder text for optional description field"
+  },
+  "deleteNotebookConfirmation": "Are you sure you want to delete this notebook?",
+  "@deleteNotebookConfirmation": {
+    "description": "Confirmation message for deleting a notebook"
+  },
+  "editNotebook": "Edit Notebook",
+  "@editNotebook": {
+    "description": "Title for edit notebook dialog"
+  },
+  "createNotebook": "Create Notebook",
+  "@createNotebook": {
+    "description": "Title for create notebook dialog"
+  },
+  "enterNotebookName": "Enter notebook name",
+  "@enterNotebookName": {
+    "description": "Placeholder text for notebook name field"
+  },
+  "appTitle": "MathNotes",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "appSubtitle": "Smart note-taking with AI",
+  "@appSubtitle": {
+    "description": "Application subtitle"
+  },
+  "quickActions": "Quick Actions",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+  "newNote": "New Note",
+  "@newNote": {
+    "description": "Create new note action"
+  },
+  "newNotebook": "New Notebook",
+  "@newNotebook": {
+    "description": "Create new notebook action"
+  },
+  "syncAndBackup": "Sync & Backup",
+  "@syncAndBackup": {
+    "description": "Sync and backup section title"
+  },
+  "backup": "Backup",
+  "@backup": {
+    "description": "Backup action"
+  },
+  "autoBackup": "Auto Backup",
+  "@autoBackup": {
+    "description": "Auto backup setting title"
+  },
+  "automaticallyBackupNotes": "Automatically backup notes to cloud",
+  "@automaticallyBackupNotes": {
+    "description": "Auto backup setting description"
+  },
+  "restore": "Restore",
+  "@restore": {
+    "description": "Restore action"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "Statistics section title"
+  },
+  "viewStatistics": "View Statistics",
+  "@viewStatistics": {
+    "description": "View statistics action"
+  },
+  "help": "Help",
+  "@help": {
+    "description": "Help action"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About action"
+  },
+  "aboutDescription": "A powerful note-taking app with AI features",
+  "@aboutDescription": {
+    "description": "About dialog description"
+  },
+  "searchNotes": "Search notes...",
+  "@searchNotes": {
+    "description": "Search placeholder text"
+  },
+  "noNotesFound": "No notes found",
+  "@noNotesFound": {
+    "description": "Message when no notes match search"
+  },
+  "searchInNotebooks": "Search in notebooks",
+  "@searchInNotebooks": {
+    "description": "Search in notebooks option"
+  },
+  "searchInTags": "Search in tags",
+  "@searchInTags": {
+    "description": "Search in tags option"
+  },
+  "recentSearches": "Recent searches",
+  "@recentSearches": {
+    "description": "Recent searches section"
+  },
+  "clearSearchHistory": "Clear search history",
+  "@clearSearchHistory": {
+    "description": "Clear search history action"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home page title"
+  },
+  "notes": "Notes",
+  "@notes": {
+    "description": "Notes page title"
+  },
+  "notebooks": "Notebooks",
+  "@notebooks": {
+    "description": "Notebooks page title"
+  },
+  "tags": "Tags",
+  "@tags": {
+    "description": "Tags page title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings page title"
+  },
+  "aiFeatures": "AI Features",
+  "@aiFeatures": {
+    "description": "AI Features page title"
+  },
+  "sync": "Sync",
+  "@sync": {
+    "description": "Sync page title"
+  },
+  "allNotes": "All Notes",
+  "@allNotes": {
+    "description": "All notes filter option"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "Favorites filter option"
+  },
+  "recent": "Recent",
+  "@recent": {
+    "description": "Recent filter option"
+  },
+  "sortBy": "Sort by",
+  "@sortBy": {
+    "description": "Sort by menu title"
+  },
+  "dateCreated": "Date Created",
+  "@dateCreated": {
+    "description": "Sort by date created option"
+  },
+  "dateModified": "Date Modified",
+  "@dateModified": {
+    "description": "Sort by date modified option"
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Sort by title option"
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "description": "Ascending sort order"
+  },
+  "descending": "Descending",
+  "@descending": {
+    "description": "Descending sort order"
+  },
+  "deleteNote": "Delete Note",
+  "@deleteNote": {
+    "description": "Delete note action"
+  },
+  "deleteNoteConfirmation": "Are you sure you want to delete this note?",
+  "@deleteNoteConfirmation": {
+    "description": "Delete note confirmation message"
+  },
+  "editNote": "Edit Note",
+  "@editNote": {
+    "description": "Edit note action"
+  },
+  "shareNote": "Share Note",
+  "@shareNote": {
+    "description": "Share note action"
+  },
+  "favoriteNote": "Favorite Note",
+  "@favoriteNote": {
+    "description": "Favorite note action"
+  },
+  "unfavoriteNote": "Unfavorite Note",
+  "@unfavoriteNote": {
+    "description": "Unfavorite note action"
+  },
+  "deleteNotebook": "Delete Notebook",
+  "@deleteNotebook": {
+    "description": "Delete notebook action"
+  },
+  "editNotebook": "Edit Notebook",
+  "@editNotebook": {
+    "description": "Edit notebook action"
+  },
+  "favoriteNotebook": "Favorite Notebook",
+  "@favoriteNotebook": {
+    "description": "Favorite notebook action"
+  },
+  "unfavoriteNotebook": "Unfavorite Notebook",
+  "@unfavoriteNotebook": {
+    "description": "Unfavorite notebook action"
+  },
+  "notesCount": "{count} notes",
+  "@notesCount": {
+    "description": "Notes count label",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "description": "Number of notes"
+      }
+    }
+  },
+  "deleteTag": "Delete Tag",
+  "@deleteTag": {
+    "description": "Delete tag action"
+  },
+  "editTag": "Edit Tag",
+  "@editTag": {
+    "description": "Edit tag action"
+  },
+  "deleteTagConfirmation": "Are you sure you want to delete this tag?",
+  "@deleteTagConfirmation": {
+    "description": "Delete tag confirmation message"
+  },
+  "noNotebooks": "No notebooks yet",
+  "@noNotebooks": {
+    "description": "Message when no notebooks exist"
+  },
+  "noTags": "No tags yet",
+  "@noTags": {
+    "description": "Message when no tags exist"
+  },
+  "createFirstNotebook": "Create your first notebook",
+  "@createFirstNotebook": {
+    "description": "Create first notebook prompt"
+  },
+  "createFirstTag": "Create your first tag",
+  "@createFirstTag": {
+    "description": "Create first tag prompt"
+  },
+  "noNotes": "No notes",
+  "@noNotes": {
+    "description": "Message when notebook has no notes"
+  },
+  "oneNote": "1 note",
+  "@oneNote": {
+    "description": "Message when notebook has one note"
+  },
+  "duplicate": "Duplicate",
+  "@duplicate": {
+    "description": "Duplicate action"
+  },
+  "popular": "Popular",
+  "@popular": {
+    "description": "Popular tag filter"
+  },
+  "new_": "New",
+  "@new_": {
+    "description": "New tag filter"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit action"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete action"
+  },
+  "monthAgo": "1 month ago",
+  "@monthAgo": {
+    "description": "One month ago"
+  },
+  "monthsAgo": "{months} months ago",
+  "@monthsAgo": {
+    "description": "Multiple months ago",
+    "placeholders": {
+      "months": {
+        "type": "int",
+        "description": "Number of months"
+      }
+    }
+  },
+  "dayAgo": "1 day ago",
+  "@dayAgo": {
+    "description": "One day ago"
+  },
+  "daysAgo": "{days} days ago",
+  "@daysAgo": {
+    "description": "Multiple days ago",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "description": "Number of days"
+      }
+    }
+  },
+  "hourAgo": "1 hour ago",
+  "@hourAgo": {
+    "description": "One hour ago"
+  },
+  "hoursAgo": "{hours} hours ago",
+  "@hoursAgo": {
+    "description": "Multiple hours ago",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "description": "Number of hours"
+      }
+    }
+  },
+  "minuteAgo": "1 minute ago",
+  "@minuteAgo": {
+    "description": "One minute ago"
+  },
+  "minutesAgo": "{minutes} minutes ago",
+  "@minutesAgo": {
+    "description": "Multiple minutes ago",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "description": "Number of minutes"
+      }
+    }
+  },
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Just now time indicator"
+  },
+  "viewNotes": "View Notes",
+  "@viewNotes": {
+    "description": "View notes action"
+  },
+  "syncNow": "Sync Now",
+  "@syncNow": {
+    "description": "Sync now action"
+  },
+  "lastSyncTime": "Last sync: {time}",
+  "@lastSyncTime": {
+    "description": "Last sync time",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "description": "Time of last sync"
+      }
+    }
+  },
+  "syncStatus": "Sync Status",
+  "@syncStatus": {
+    "description": "Sync status label"
+  },
+  "connected": "Connected",
+  "@connected": {
+    "description": "Connected status"
+  },
+  "disconnected": "Disconnected",
+  "@disconnected": {
+    "description": "Disconnected status"
+  },
+  "syncing": "Syncing...",
+  "@syncing": {
+    "description": "Syncing status"
+  },
+  "syncError": "Sync Error",
+  "@syncError": {
+    "description": "Sync error status"
+  },
+  "createNotebook": "Create Notebook",
+  "@createNotebook": {
+    "description": "Create notebook action"
+  },
+  "notebookName": "Notebook Name",
+  "@notebookName": {
+    "description": "Notebook name field"
+  },
+  "enterNotebookName": "Enter notebook name",
+  "@enterNotebookName": {
+    "description": "Enter notebook name placeholder"
+  },
+  "create": "Create",
+  "@create": {
+    "description": "Create action"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel action"
+  },
+  "aiSummarization": "AI Summarization",
+  "@aiSummarization": {
+    "description": "AI summarization feature"
+  },
+  "aiTranslation": "AI Translation",
+  "@aiTranslation": {
+    "description": "AI translation feature"
+  },
+  "aiQuestionAnswering": "AI Question Answering",
+  "@aiQuestionAnswering": {
+    "description": "AI question answering feature"
+  },
+  "aiMathSolver": "AI Math Solver",
+  "@aiMathSolver": {
+    "description": "AI math solver feature"
+  },
+  "enableAI": "Enable AI Features",
+  "@enableAI": {
+    "description": "Enable AI features setting"
+  },
+  "aiApiKey": "AI API Key",
+  "@aiApiKey": {
+    "description": "AI API key setting"
+  },
+  "enterApiKey": "Enter API Key",
+  "@enterApiKey": {
+    "description": "Enter API key placeholder"
+  },
+  "createTag": "Create Tag",
+  "@createTag": {
+    "description": "Create tag action"
+  },
+  "tagName": "Tag Name",
+  "@tagName": {
+    "description": "Tag name field"
+  },
+  "enterTagName": "Enter tag name",
+  "@enterTagName": {
+    "description": "Enter tag name placeholder"
+  },
+  "searchHint": "Search notes, notebooks, tags...",
+  "@searchHint": {
+    "description": "Search hint text"
+  },
+  "noSearchResults": "No search results found",
+  "@noSearchResults": {
+    "description": "No search results message"
+  },
+  "listView": "List View",
+  "@listView": {
+    "description": "List view option"
+  },
+  "gridView": "Grid View",
+  "@gridView": {
+    "description": "Grid view option"
+  },
+  "noNotesYet": "No notes yet",
+  "@noNotesYet": {
+    "description": "No notes yet message"
+  },
+  "createNote": "Create Note",
+  "@createNote": {
+    "description": "Create note action"
+  },
+  "notebooksDesc": "Organize your notes into notebooks",
+  "@notebooksDesc": {
+    "description": "Notebooks description"
+  },
+  "notebooksDescription": "Organize your notes into notebooks",
+  "@notebooksDescription": {
+    "description": "Notebooks description text"
+  },
+  "archived": "Archived",
+  "@archived": {
+    "description": "Archived filter option"
+  },
+  "lastModified": "Last Modified",
+  "@lastModified": {
+    "description": "Last modified sort option"
+  },
+  "archive": "Archive",
+  "@archive": {
+    "description": "Archive action"
+  },
+  "noRecentSearches": "No recent searches",
+  "@noRecentSearches": {
+    "description": "Message when there are no recent searches"
+  },
+  "searchFilters": "Search Filters",
+  "@searchFilters": {
+    "description": "Search filters title"
+  },
+  "searchTipsDescription": "Search through your notes, notebooks, and tags",
+  "@searchTipsDescription": {
+    "description": "Description for search tips"
+  },
+  "searchTips": "Search Tips",
+  "@searchTips": {
+    "description": "Search tips title"
+  },
+  "handwritingNotes": "Handwriting Notes",
+  "@handwritingNotes": {
+    "description": "Handwriting notes filter"
+  },
+  "stylus": "Stylus",
+  "touch": "Touch",
+  "inputMethod": "Input Method",
+  "pressureSensitive": "Pressure Sensitive",
+  "smoothing": "Smoothing",
+  "stabilization": "Stabilization",
+  "drawingSettings": "Drawing Settings",
+  "handwritingSettings": "Handwriting Settings",
+  "recognitionLanguage": "Recognition Language",
+  "autoRecognize": "Auto Recognize",
+  "manualRecognize": "Manual Recognize",
+  "confidence": "Confidence",
+  "alternatives": "Alternatives",
+  "acceptSuggestion": "Accept Suggestion",
+  "rejectSuggestion": "Reject Suggestion",
+  "mathMode": "Math Mode",
+  "textMode": "Text Mode",
+  "mixedMode": "Mixed Mode",
+  "graphType": "Graph Type",
+  "lineGraph": "Line Graph",
+  "barGraph": "Bar Graph",
+  "pieChart": "Pie Chart",
+  "scatterPlot": "Scatter Plot",
+  "histogram": "Histogram",
+  "functionPlot": "Function Plot",
+  "parametricPlot": "Parametric Plot",
+  "polarPlot": "Polar Plot",
+  "xAxis": "X Axis",
+  "yAxis": "Y Axis",
+  "zAxis": "Z Axis",
+  "domain": "Domain",
+  "range": "Range",
+  "gridLines": "Grid Lines",
+  "axisLabels": "Axis Labels",
+  "legend": "Legend",
+  "graphTitle": "Graph Title",
+  "generateFromFormula": "Generate from Formula",
+  "customizeGraph": "Customize Graph",
+  "saveGraph": "Save Graph",
+  "insertGraph": "Insert Graph",
+  "aiSummary": "AI Summary",
+  "keyPoints": "Key Points",
+  "mainTopics": "Main Topics",
+  "actionItems": "Action Items",
+  "summaryLength": "Summary Length",
+  "short": "Short",
+  "medium": "Medium",
+  "long": "Long",
+  "detailed": "Detailed",
+  "generateSummary": "Generate Summary",
+  "saveSummary": "Save Summary",
+  "appendSummary": "Append Summary",
+  "replaceSummary": "Replace Summary",
+  "featureComingSoon": "Feature Coming Soon",
+  "@featureComingSoon": {
+    "description": "Message for features that are not yet implemented"
+  },
+  "deleteAllData": "Delete All Data",
+  "@deleteAllData": {
+    "description": "Delete all data option"
+  },
+  "permanentlyDeleteAllData": "Permanently delete all notes, notebooks, and tags",
+  "@permanentlyDeleteAllData": {
+    "description": "Description for delete all data option"
+  },
+  "deleteAllDataWarning": "This action cannot be undone. All your data will be permanently deleted.",
+  "@deleteAllDataWarning": {
+    "description": "Warning message for delete all data"
+  },
+  "allDataDeleted": "All data has been deleted successfully",
+  "@allDataDeleted": {
+    "description": "Confirmation message after deleting all data"
+  },
+  "cacheCleared": "Cache cleared successfully",
+  "@cacheCleared": {
+    "description": "Confirmation message after clearing cache"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme settings section title"
+  },
+  "selectTheme": "Select Theme",
+  "@selectTheme": {
+    "description": "Title for theme selection dialog"
+  },
+  "systemTheme": "System Theme",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  "syncNotesAcrossDevices": "Sync notes across devices",
+  "@syncNotesAcrossDevices": {
+    "description": "Description for cloud sync feature"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Title for language selection dialog"
+  },
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Label for terms of service"
+  },
+  "readTermsOfService": "Read terms of service",
+  "@readTermsOfService": {
+    "description": "Subtitle for terms of service section"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Label for privacy policy"
+  },
+  "readPrivacyPolicy": "Read privacy policy",
+  "@readPrivacyPolicy": {
+    "description": "Subtitle for privacy policy section"
+  },
+  "appVersion": "App Version",
+  "@appVersion": {
+    "description": "Label for app version"
+  },
+  "clearCache": "Clear Cache",
+  "@clearCache": {
+    "description": "Label for clear cache button"
+  },
+  "clearTemporaryFiles": "Clear temporary files and cached data",
+  "@clearTemporaryFiles": {
+    "description": "Subtitle for clear cache section"
+  },
+  "storageUsage": "Storage Usage",
+  "@storageUsage": {
+    "description": "Label for storage usage"
+  },
+  "viewStorageUsage": "View detailed storage usage information",
+  "@viewStorageUsage": {
+    "description": "Subtitle for storage usage section"
+  },
+  "storage": "Storage",
+  "@storage": {
+    "description": "Label for storage section"
+  },
+  "enableSpellChecking": "Enable automatic spell checking while typing",
+  "@enableSpellChecking": {
+    "description": "Subtitle for spell check setting"
+  },
+  "spellCheck": "Spell Check",
+  "@spellCheck": {
+    "description": "Label for spell check setting"
+  },
+  "automaticallySaveChanges": "Automatically save changes while typing",
+  "@automaticallySaveChanges": {
+    "description": "Subtitle for auto save setting"
+  },
+  "autoSave": "Auto Save",
+  "@autoSave": {
+    "description": "Label for auto save setting"
+  },
+  "setDefaultFontSize": "Set the default font size for new notes",
+  "@setDefaultFontSize": {
+    "description": "Subtitle for font size setting"
+  },
+  "defaultFontSize": "Default Font Size",
+  "@defaultFontSize": {
+    "description": "Label for default font size setting"
+  },
+  "editor": "Editor",
+  "@editor": {
+    "description": "Label for editor section"
+  },
+  "configureAiApiKey": "Configure your AI API key for enhanced features",
+  "@configureAiApiKey": {
+    "description": "Subtitle for AI API key setting"
+  },
+  "aiPoweredNoteSummaries": "AI-powered note summaries",
+  "@aiPoweredNoteSummaries": {
+    "description": "Subtitle for note summarization setting"
+  },
+  "autoGenerateGraphsFromFormulas": "Automatically generate graphs from mathematical formulas",
+  "@autoGenerateGraphsFromFormulas": {
+    "description": "Subtitle for math graph generation setting"
+  },
+  "notebookDeleted": "Notebook deleted successfully",
+  "@notebookDeleted": {
+    "description": "Success message when a notebook is deleted"
+  },
+  "noteDeleted": "Note deleted successfully",
+  "@noteDeleted": {
+    "description": "Success message when a note is deleted"
+  },
+  "errorDeletingNotebook": "Error deleting notebook",
+  "@errorDeletingNotebook": {
+    "description": "Error message when notebook deletion fails"
+  }
+}

@@ -1,0 +1,1042 @@
+{
+  "appTitle": "מתמטיקה נוטס",
+  "notes": "הערות",
+  "notebooks": "מחברות",
+  "tags": "תגיות",
+  "settings": "הגדרות",
+  "newNote": "הערה חדשה",
+  "newNotebook": "מחברת חדשה",
+  "search": "חיפוש",
+  "startTypingToSearch": "התחל להקליד כדי לחפש הערות...",
+  "@startTypingToSearch": {
+    "description": "Search placeholder text"
+  },
+  "drawing": "ציור",
+  "handwriting": "כתב יד",
+  "text": "טקסט",
+  "math": "מתמטיקה",
+  "formula": "נוסחה",
+  "graph": "גרף",
+  "save": "שמור",
+  "cancel": "בטל",
+  "delete": "מחק",
+  "edit": "ערוך",
+  "share": "שתף",
+  "export": "ייצא",
+  "import": "ייבא",
+  "exportData": "ייצוא נתונים",
+  "@exportData": {
+    "description": "Export data option title"
+  },
+  "exportAllNotesAndNotebooks": "ייצא את כל ההערות והמחברות",
+  "@exportAllNotesAndNotebooks": {
+    "description": "Export data option description"
+  },
+  "importData": "ייבוא נתונים",
+  "@importData": {
+    "description": "Import data option title"
+  },
+  "importNotesFromFile": "ייבא הערות מקובץ",
+  "@importNotesFromFile": {
+    "description": "Import data option description"
+  },
+  "sync": "סנכרן",
+  "backup": "גיבוי",
+  "restore": "שחזר",
+  "darkTheme": "ערכת נושא כהה",
+  "lightTheme": "ערכת נושא בהיר",
+  "language": "שפה",
+  "english": "אנגלית",
+  "hebrew": "עברית",
+  "recognizeHandwriting": "זהה כתב יד",
+  "generateGraph": "צור גרף",
+  "summarizeNote": "סכם הערה",
+  "aiFeatures": "תכונות בינה מלאכותית",
+  "cloudSync": "סנכרון ענן",
+  "signIn": "התחבר",
+  "signOut": "התנתק",
+  "account": "חשבון",
+  "notebook": "מחברת",
+  "tag": "תגית",
+  "title": "כותרת",
+  "content": "תוכן",
+  "created": "נוצר",
+  "modified": "שונה",
+  "size": "גודל",
+  "color": "צבע",
+  "thickness": "עובי",
+  "opacity": "שקיפות",
+  "tool": "כלי",
+  "pen": "עט",
+  "pencil": "עיפרון",
+  "marker": "טוש",
+  "eraser": "מחק",
+  "undo": "בטל",
+  "redo": "חזור",
+  "clear": "נקה",
+  "selectAll": "בחר הכל",
+  "copy": "העתק",
+  "paste": "הדבק",
+  "cut": "גזור",
+  "bold": "מודגש",
+  "italic": "נטוי",
+  "underline": "קו תחתון",
+  "fontSize": "גודל גופן",
+  "fontFamily": "משפחת גופן",
+  "textColor": "צבע טקסט",
+  "backgroundColor": "צבע רקע",
+  "alignment": "יישור",
+  "left": "שמאל",
+  "center": "מרכז",
+  "right": "ימין",
+  "justify": "מוצדק",
+  "bulletList": "רשימת תבליטים",
+  "numberedList": "רשימה ממוספרת",
+  "checklist": "רשימת משימות",
+  "insertImage": "הכנס תמונה",
+  "insertTable": "הכנס טבלה",
+  "insertLink": "הכנס קישור",
+  "mathExpression": "ביטוי מתמטי",
+  "enterFormula": "הכנס נוסחה",
+  "invalidFormula": "נוסחה לא תקינה",
+  "processingAI": "מעבד עם בינה מלאכותית...",
+  "aiError": "עיבוד בינה מלאכותית נכשל",
+  "syncSuccess": "סנכרון הצליח",
+  "syncError": "סנכרון נכשל",
+  "noInternet": "אין חיבור לאינטרנט",
+  "loading": "טוען...",
+  "retry": "נסה שוב",
+  "close": "סגור",
+  "confirm": "אשר",
+  "warning": "אזהרה",
+  "error": "שגיאה",
+  "success": "הצלחה",
+  "info": "מידע",
+  "deleteNoteConfirm": "האם אתה בטוח שברצונך למחוק הערה זו?",
+  "deleteNotebookConfirm": "האם אתה בטוח שברצונך למחוק מחברת זו ואת כל ההערות שלה?",
+  "unsavedChanges": "יש לך שינויים לא שמורים. האם ברצונך לשמור אותם?",
+  "notebookName": "שם מחברת",
+  "tagName": "שם תגית",
+  "noteTitle": "כותרת הערה",
+  "searchNotes": "חפש הערות...",
+  "noNotesFound": "לא נמצאו הערות",
+  "noNotebooksFound": "לא נמצאו מחברות",
+  "createFirstNote": "צור את ההערה הראשונה שלך",
+  "createFirstNotebook": "צור את המחברת הראשונה שלך",
+  "recentNotes": "הערות אחרונות",
+  "allNotes": "כל ההערות",
+  "favorites": "מועדפים",
+  "trash": "פח אשפה",
+  "addToFavorites": "הוסף למועדפים",
+  "removeFromFavorites": "הסר ממועדפים",
+  "moveToTrash": "העבר לפח אשפה",
+  "restoreFromTrash": "שחזר מפח אשפה",
+  "permanentlyDelete": "מחק לצמיתות",
+  "emptyTrash": "רוקן פח אשפה",
+  "exportToPDF": "ייצא ל-PDF",
+  "exportToImage": "ייצא לתמונה",
+  "exportToText": "ייצא לטקסט",
+  "importFromFile": "ייבא מקובץ",
+  "selectNotebook": "בחר מחברת",
+  "selectTags": "בחר תגיות",
+  "addTag": "הוסף תגית",
+  "removeTag": "הסר תגית",
+  "editTag": "ערוך תגית",
+  "deleteTag": "מחק תגית",
+  "viewNotes": "צפה בהערות",
+  "justNow": "עכשיו",
+  "minuteAgo": "לפני דקה",
+  "minutesAgo": "לפני {count} דקות",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hourAgo": "לפני שעה",
+  "hoursAgo": "לפני {count} שעות",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dayAgo": "לפני יום",
+  "daysAgo": "לפני {count} ימים",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "monthAgo": "לפני חודש",
+  "monthsAgo": "לפני {count} חודשים",
+  "@monthsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "yearAgo": "לפני שנה",
+  "yearsAgo": "לפני {count} שנים",
+  "@yearsAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "new_": "חדש",
+  "popular": "פופולרי",
+  "framework": "מסגרת עבודה",
+  "platform": "פלטפורמה",
+  "database": "מסד נתונים",
+  "cloudStorage": "אחסון ענן",
+  "aiProvider": "ספק בינה מלאכותית",
+  "licenses": "רישיונות",
+  "technicalInfo": "מידע טכני",
+  "@technicalInfo": {
+    "description": "Label for technical information section"
+  },
+  "aiFeatures": "תכונות בינה מלאכותית",
+  "@aiFeatures": {
+    "description": "Label for AI features page"
+  },
+  "sync": "סנכרון",
+  "@sync": {
+    "description": "Label for sync page"
+  },
+  "appDescription": "MathNotes הוא אפליקציית רישום הערות מקיפה המיועדת במיוחד לסטודנטים ואנשי מקצוע במתמטיקה. צור, ארגן ונהל את ההערות המתמטיות שלך בקלות.",
+  "@appDescription": {
+    "description": "Description of the MathNotes application"
+  },
+  "copiedToClipboard": "הועתק ללוח",
+  "@copiedToClipboard": {
+    "description": "Message shown when content is copied to clipboard"
+  },
+  "appName": "MathNotes",
+  "@appName": {
+    "description": "Name of the application"
+  },
+  "website": "אתר אינטרנט",
+  "@website": {
+    "description": "Label for website link"
+  },
+  "sourceCode": "קוד מקור",
+  "@sourceCode": {
+    "description": "Label for source code link"
+  },
+  "contactUs": "צור קשר",
+  "@contactUs": {
+    "description": "Contact us section title"
+  },
+  "email": "דוא\"ל",
+  "@email": {
+    "description": "Email label"
+  },
+  "keyFeatures": "תכונות עיקריות",
+  "@keyFeatures": {
+    "description": "Key features section title"
+  },
+  "handwritingRecognition": "זיהוי כתב יד",
+  "@handwritingRecognition": {
+    "description": "Handwriting recognition feature"
+  },
+  "convertHandwritingToText": "המר כתב יד לטקסט אוטומטית",
+  "@convertHandwritingToText": {
+    "description": "Handwriting recognition setting description"
+  },
+  "mathGraphGeneration": "יצירת גרפים מתמטיים",
+  "@mathGraphGeneration": {
+    "description": "Math graph generation feature"
+  },
+  "noteSummarization": "סיכום הערות",
+  "@noteSummarization": {
+    "description": "Note summarization feature"
+  },
+  "cloudSync": "סנכרון ענן",
+  "@cloudSync": {
+    "description": "Cloud synchronization feature"
+  },
+  "multiLanguageSupport": "תמיכה רב-לשונית",
+  "@multiLanguageSupport": {
+    "description": "Multi-language support feature"
+  },
+  "darkAndLightThemes": "ערכות נושא כהות ובהירות",
+  "@darkAndLightThemes": {
+    "description": "Dark and light themes feature"
+  },
+  "licenses": "רישיונות",
+  "@licenses": {
+    "description": "Software licenses"
+  },
+  "viewOpenSourceLicenses": "צפה ברישיונות קוד פתוח",
+  "@viewOpenSourceLicenses": {
+    "description": "Subtitle for licenses section"
+  },
+  "technicalInfo": "מידע טכני",
+  "@technicalInfo": {
+    "description": "Technical information section title"
+  },
+  "framework": "מסגרת עבודה",
+  "@framework": {
+    "description": "Development framework"
+  },
+  "platform": "פלטפורמה",
+  "@platform": {
+    "description": "Supported platforms"
+  },
+  "database": "מסד נתונים",
+  "@database": {
+    "description": "Database technology"
+  },
+  "cloudStorage": "אחסון ענן",
+  "@cloudStorage": {
+    "description": "Cloud storage provider"
+  },
+  "aiProvider": "ספק בינה מלאכותית",
+  "@aiProvider": {
+    "description": "AI service provider"
+  },
+  "createNewTag": "צור תג חדש",
+  "@createNewTag": {
+    "description": "Create new tag button text"
+  },
+  "enterTagName": "הזן שם תג",
+  "@enterTagName": {
+    "description": "Placeholder text for tag name input"
+  },
+  "create": "צור",
+  "@create": {
+    "description": "Create button text"
+  },
+  "tagAlreadyExists": "התג כבר קיים",
+  "@tagAlreadyExists": {
+    "description": "הודעת שגיאה כאשר מנסים ליצור תג שכבר קיים"
+  },
+  "pleaseEnterTagName": "אנא הכנס שם תג",
+  "@pleaseEnterTagName": {
+    "description": "הודעת אימות עבור שדה שם תג ריק"
+  },
+  "invalidTagName": "שם תג לא תקין",
+  "@invalidTagName": {
+    "description": "הודעת אימות עבור שם תג לא תקין"
+  },
+  "selectColor": "בחר צבע",
+  "@selectColor": {
+    "description": "תווית לבחירת צבע ביצירת תג"
+  },
+  "commonTags": "תגים נפוצים",
+  "@commonTags": {
+    "description": "תווית לקטע תגים נפוצים"
+  },
+  "selectIcon": "בחר אייקון",
+  "@selectIcon": {
+    "description": "תווית לבחירת אייקון ביצירת מחברת"
+  },
+  "favoriteNotebookDescription": "סמן כמחברת מועדפת",
+  "@favoriteNotebookDescription": {
+    "description": "תיאור עבור תיבת סימון מחברת מועדפת"
+  },
+  "createTag": "צור תג",
+  "@createTag": {
+    "description": "כותרת עבור דיאלוג יצירת תג"
+  },
+  "pleaseEnterNotebookName": "אנא הכנס שם מחברת",
+  "@pleaseEnterNotebookName": {
+    "description": "הודעת אימות עבור שדה שם מחברת ריק"
+  },
+  "description": "תיאור",
+  "@description": {
+    "description": "תווית עבור שדה תיאור"
+  },
+  "optionalDescription": "תיאור אופציונלי",
+  "@optionalDescription": {
+    "description": "טקסט מציין מקום עבור שדה תיאור אופציונלי"
+  },
+  "deleteNotebookConfirmation": "האם אתה בטוח שברצונך למחוק את המחברת הזו?",
+  "@deleteNotebookConfirmation": {
+    "description": "הודעת אישור למחיקת מחברת"
+  },
+  "editNotebook": "ערוך מחברת",
+  "@editNotebook": {
+    "description": "כותרת עבור דיאלוג עריכת מחברת"
+  },
+  "createNotebook": "צור מחברת",
+  "@createNotebook": {
+    "description": "כותרת עבור דיאלוג יצירת מחברת"
+  },
+  "enterNotebookName": "הכנס שם מחברת",
+  "@enterNotebookName": {
+    "description": "טקסט מציין מקום עבור שדה שם מחברת"
+  },
+  "appTitle": "MathNotes",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "appSubtitle": "רישום הערות חכם עם בינה מלאכותית",
+  "@appSubtitle": {
+    "description": "Application subtitle"
+  },
+  "quickActions": "פעולות מהירות",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+  "newNote": "הערה חדשה",
+  "@newNote": {
+    "description": "Create new note action"
+  },
+  "newNotebook": "מחברת חדשה",
+  "@newNotebook": {
+    "description": "Create new notebook action"
+  },
+  "syncAndBackup": "סנכרון וגיבוי",
+  "@syncAndBackup": {
+    "description": "Sync and backup section title"
+  },
+  "backup": "גיבוי",
+  "@backup": {
+    "description": "Backup action"
+  },
+  "autoBackup": "גיבוי אוטומטי",
+  "@autoBackup": {
+    "description": "Auto backup setting title"
+  },
+  "automaticallyBackupNotes": "גבה הערות אוטומטית לענן",
+  "@automaticallyBackupNotes": {
+    "description": "Auto backup setting description"
+  },
+  "restore": "שחזור",
+  "@restore": {
+    "description": "Restore action"
+  },
+  "statistics": "סטטיסטיקות",
+  "@statistics": {
+    "description": "Statistics section title"
+  },
+  "viewStatistics": "צפה בסטטיסטיקות",
+  "@viewStatistics": {
+    "description": "View statistics action"
+  },
+  "help": "עזרה",
+  "@help": {
+    "description": "Help action"
+  },
+  "about": "אודות",
+  "@about": {
+    "description": "About action"
+  },
+  "aboutDescription": "אפליקציית רישום הערות עוצמתית עם תכונות בינה מלאכותית",
+  "@aboutDescription": {
+    "description": "About dialog description"
+  },
+  "searchNotes": "חפש הערות...",
+  "@searchNotes": {
+    "description": "Search placeholder text"
+  },
+  "noNotesFound": "לא נמצאו הערות",
+  "@noNotesFound": {
+    "description": "Message when no notes match search"
+  },
+  "searchInNotebooks": "חפש במחברות",
+  "@searchInNotebooks": {
+    "description": "Search in notebooks option"
+  },
+  "searchInTags": "חפש בתגיות",
+  "@searchInTags": {
+    "description": "Search in tags option"
+  },
+  "recentSearches": "חיפושים אחרונים",
+  "@recentSearches": {
+    "description": "Recent searches section"
+  },
+  "clearSearchHistory": "נקה היסטוריית חיפוש",
+  "@clearSearchHistory": {
+    "description": "Clear search history action"
+  },
+  "home": "בית",
+  "@home": {
+    "description": "Home page title"
+  },
+  "notes": "הערות",
+  "@notes": {
+    "description": "Notes page title"
+  },
+  "notebooks": "מחברות",
+  "@notebooks": {
+    "description": "Notebooks page title"
+  },
+  "tags": "תגיות",
+  "@tags": {
+    "description": "Tags page title"
+  },
+  "settings": "הגדרות",
+  "@settings": {
+    "description": "Settings page title"
+  },
+  "aiFeatures": "תכונות בינה מלאכותית",
+  "@aiFeatures": {
+    "description": "AI Features page title"
+  },
+  "sync": "סנכרון",
+  "@sync": {
+    "description": "Sync page title"
+  },
+  "allNotes": "כל ההערות",
+  "@allNotes": {
+    "description": "All notes filter option"
+  },
+  "favorites": "מועדפים",
+  "@favorites": {
+    "description": "Favorites filter option"
+  },
+  "recent": "אחרונים",
+  "@recent": {
+    "description": "Recent filter option"
+  },
+  "sortBy": "מיין לפי",
+  "@sortBy": {
+    "description": "Sort by menu title"
+  },
+  "dateCreated": "תאריך יצירה",
+  "@dateCreated": {
+    "description": "Sort by date created option"
+  },
+  "dateModified": "תאריך עדכון",
+  "@dateModified": {
+    "description": "Sort by date modified option"
+  },
+  "title": "כותרת",
+  "@title": {
+    "description": "Sort by title option"
+  },
+  "ascending": "עולה",
+  "@ascending": {
+    "description": "Ascending sort order"
+  },
+  "descending": "יורד",
+  "@descending": {
+    "description": "Descending sort order"
+  },
+  "deleteNote": "מחק הערה",
+  "@deleteNote": {
+    "description": "Delete note action"
+  },
+  "deleteNoteConfirmation": "האם אתה בטוח שברצונך למחוק הערה זו?",
+  "@deleteNoteConfirmation": {
+    "description": "Delete note confirmation message"
+  },
+  "editNote": "ערוך הערה",
+  "@editNote": {
+    "description": "Edit note action"
+  },
+  "shareNote": "שתף הערה",
+  "@shareNote": {
+    "description": "Share note action"
+  },
+  "favoriteNote": "הוסף למועדפים",
+  "@favoriteNote": {
+    "description": "Favorite note action"
+  },
+  "unfavoriteNote": "הסר ממועדפים",
+  "@unfavoriteNote": {
+    "description": "Unfavorite note action"
+  },
+  "deleteNotebook": "מחק מחברת",
+  "@deleteNotebook": {
+    "description": "Delete notebook action"
+  },
+  "editNotebook": "ערוך מחברת",
+  "@editNotebook": {
+    "description": "Edit notebook action"
+  },
+  "favoriteNotebook": "הוסף מחברת למועדפים",
+  "@favoriteNotebook": {
+    "description": "Favorite notebook action"
+  },
+  "unfavoriteNotebook": "הסר מחברת ממועדפים",
+  "@unfavoriteNotebook": {
+    "description": "Unfavorite notebook action"
+  },
+  "notesCount": "{count} הערות",
+  "@notesCount": {
+    "description": "Notes count label",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "description": "Number of notes"
+      }
+    }
+  },
+  "deleteTag": "מחק תגית",
+  "@deleteTag": {
+    "description": "Delete tag action"
+  },
+  "editTag": "ערוך תגית",
+  "@editTag": {
+    "description": "Edit tag action"
+  },
+  "deleteTagConfirmation": "האם אתה בטוח שברצונך למחוק תגית זו?",
+  "@deleteTagConfirmation": {
+    "description": "Delete tag confirmation message"
+  },
+  "noNotebooks": "אין מחברות עדיין",
+  "@noNotebooks": {
+    "description": "Message when no notebooks exist"
+  },
+  "noTags": "אין תגיות עדיין",
+  "@noTags": {
+    "description": "Message when no tags exist"
+  },
+  "createFirstNotebook": "צור את המחברת הראשונה שלך",
+  "@createFirstNotebook": {
+    "description": "Create first notebook prompt"
+  },
+  "createFirstTag": "צור את התגית הראשונה שלך",
+  "@createFirstTag": {
+    "description": "Create first tag prompt"
+  },
+  "noNotes": "אין הערות",
+  "@noNotes": {
+    "description": "Message when notebook has no notes"
+  },
+  "oneNote": "הערה אחת",
+  "@oneNote": {
+    "description": "Message when notebook has one note"
+  },
+  "duplicate": "שכפל",
+  "@duplicate": {
+    "description": "Duplicate action"
+  },
+  "popular": "פופולרי",
+  "@popular": {
+    "description": "Popular tag filter"
+  },
+  "new_": "חדש",
+  "@new_": {
+    "description": "New tag filter"
+  },
+  "edit": "ערוך",
+  "@edit": {
+    "description": "Edit action"
+  },
+  "delete": "מחק",
+  "@delete": {
+    "description": "Delete action"
+  },
+  "monthAgo": "לפני חודש",
+  "@monthAgo": {
+    "description": "One month ago"
+  },
+  "monthsAgo": "לפני {months} חודשים",
+  "@monthsAgo": {
+    "description": "Multiple months ago",
+    "placeholders": {
+      "months": {
+        "type": "int",
+        "description": "Number of months"
+      }
+    }
+  },
+  "dayAgo": "לפני יום",
+  "@dayAgo": {
+    "description": "One day ago"
+  },
+  "daysAgo": "לפני {days} ימים",
+  "@daysAgo": {
+    "description": "Multiple days ago",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "description": "Number of days"
+      }
+    }
+  },
+  "hourAgo": "לפני שעה",
+  "@hourAgo": {
+    "description": "One hour ago"
+  },
+  "hoursAgo": "לפני {hours} שעות",
+  "@hoursAgo": {
+    "description": "Multiple hours ago",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "description": "Number of hours"
+      }
+    }
+  },
+  "minuteAgo": "לפני דקה",
+  "@minuteAgo": {
+    "description": "One minute ago"
+  },
+  "minutesAgo": "לפני {minutes} דקות",
+  "@minutesAgo": {
+    "description": "Multiple minutes ago",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "description": "Number of minutes"
+      }
+    }
+  },
+  "justNow": "עכשיו",
+  "@justNow": {
+    "description": "Just now time indicator"
+  },
+  "viewNotes": "צפה ברשימות",
+  "@viewNotes": {
+    "description": "View notes action"
+  },
+  "syncNow": "סנכרן עכשיו",
+  "@syncNow": {
+    "description": "Sync now action"
+  },
+  "lastSyncTime": "סנכרון אחרון: {time}",
+  "@lastSyncTime": {
+    "description": "Last sync time",
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "description": "Time of last sync"
+      }
+    }
+  },
+  "syncStatus": "סטטוס סנכרון",
+  "@syncStatus": {
+    "description": "Sync status label"
+  },
+  "connected": "מחובר",
+  "@connected": {
+    "description": "Connected status"
+  },
+  "disconnected": "מנותק",
+  "@disconnected": {
+    "description": "Disconnected status"
+  },
+  "syncing": "מסנכרן...",
+  "@syncing": {
+    "description": "Syncing status"
+  },
+  "syncError": "שגיאת סנכרון",
+  "@syncError": {
+    "description": "Sync error status"
+  },
+  "createNotebook": "צור מחברת",
+  "@createNotebook": {
+    "description": "Create notebook action"
+  },
+  "notebookName": "שם המחברת",
+  "@notebookName": {
+    "description": "Notebook name field"
+  },
+  "enterNotebookName": "הכנס שם מחברת",
+  "@enterNotebookName": {
+    "description": "Enter notebook name placeholder"
+  },
+  "create": "צור",
+  "@create": {
+    "description": "Create action"
+  },
+  "cancel": "בטל",
+  "@cancel": {
+    "description": "Cancel action"
+  },
+  "aiSummarization": "סיכום בינה מלאכותית",
+  "@aiSummarization": {
+    "description": "AI summarization feature"
+  },
+  "aiTranslation": "תרגום בינה מלאכותית",
+  "@aiTranslation": {
+    "description": "AI translation feature"
+  },
+  "aiQuestionAnswering": "מענה לשאלות בינה מלאכותית",
+  "@aiQuestionAnswering": {
+    "description": "AI question answering feature"
+  },
+  "aiMathSolver": "פותר מתמטיקה בינה מלאכותית",
+  "@aiMathSolver": {
+    "description": "AI math solver feature"
+  },
+  "enableAI": "הפעל תכונות בינה מלאכותית",
+  "@enableAI": {
+    "description": "Enable AI features setting"
+  },
+  "aiApiKey": "מפתח API בינה מלאכותית",
+  "@aiApiKey": {
+    "description": "AI API key setting"
+  },
+  "enterApiKey": "הכנס מפתח API",
+  "@enterApiKey": {
+    "description": "Enter API key placeholder"
+  },
+  "createTag": "צור תג",
+  "@createTag": {
+    "description": "Create tag action"
+  },
+  "tagName": "שם התג",
+  "@tagName": {
+    "description": "Tag name field"
+  },
+  "enterTagName": "הכנס שם תג",
+  "@enterTagName": {
+    "description": "Enter tag name placeholder"
+  },
+  "searchHint": "חפש רשימות, מחברות, תגים...",
+  "@searchHint": {
+    "description": "Search hint text"
+  },
+  "noSearchResults": "לא נמצאו תוצאות חיפוש",
+  "@noSearchResults": {
+    "description": "No search results message"
+  },
+  "listView": "תצוגת רשימה",
+  "@listView": {
+    "description": "List view option"
+  },
+  "gridView": "תצוגת רשת",
+  "@gridView": {
+    "description": "Grid view option"
+  },
+  "noNotesYet": "אין רשימות עדיין",
+  "@noNotesYet": {
+    "description": "No notes yet message"
+  },
+  "createNote": "צור רשימה",
+  "@createNote": {
+    "description": "Create note action"
+  },
+  "notebooksDesc": "ארגן את הרשימות שלך במחברות",
+  "@notebooksDesc": {
+    "description": "Notebooks description"
+  },
+  "notebooksDescription": "ארגן את הרשימות שלך במחברות",
+  "@notebooksDescription": {
+    "description": "Notebooks description text"
+  },
+  "archived": "בארכיון",
+  "@archived": {
+    "description": "Archived filter option"
+  },
+  "lastModified": "עודכן לאחרונה",
+  "@lastModified": {
+    "description": "Last modified sort option"
+  },
+  "archive": "ארכיון",
+  "@archive": {
+    "description": "Archive action"
+  },
+  "noRecentSearches": "אין חיפושים אחרונים",
+  "@noRecentSearches": {
+    "description": "Message when there are no recent searches"
+  },
+  "searchFilters": "מסנני חיפוש",
+  "@searchFilters": {
+    "description": "Search filters title"
+  },
+  "searchTipsDescription": "חפש ברשימות, במחברות ובתגיות שלך",
+  "@searchTipsDescription": {
+    "description": "Description for search tips"
+  },
+  "searchTips": "טיפי חיפוש",
+  "@searchTips": {
+    "description": "Search tips title"
+  },
+  "handwritingNotes": "רשימות כתב יד",
+  "@handwritingNotes": {
+    "description": "Handwriting notes filter"
+  },
+  "stylus": "עט דיגיטלי",
+  "touch": "מגע",
+  "inputMethod": "שיטת קלט",
+  "pressureSensitive": "רגיש ללחץ",
+  "smoothing": "החלקה",
+  "stabilization": "ייצוב",
+  "drawingSettings": "הגדרות ציור",
+  "handwritingSettings": "הגדרות כתב יד",
+  "recognitionLanguage": "שפת זיהוי",
+  "autoRecognize": "זיהוי אוטומטי",
+  "manualRecognize": "זיהוי ידני",
+  "confidence": "רמת ביטחון",
+  "alternatives": "חלופות",
+  "acceptSuggestion": "קבל הצעה",
+  "rejectSuggestion": "דחה הצעה",
+  "mathMode": "מצב מתמטיקה",
+  "textMode": "מצב טקסט",
+  "mixedMode": "מצב מעורב",
+  "graphType": "סוג גרף",
+  "lineGraph": "גרף קווי",
+  "barGraph": "גרף עמודות",
+  "pieChart": "תרשים עוגה",
+  "scatterPlot": "תרשים פיזור",
+  "histogram": "היסטוגרמה",
+  "functionPlot": "גרף פונקציה",
+  "parametricPlot": "גרף פרמטרי",
+  "polarPlot": "גרף קוטבי",
+  "xAxis": "ציר X",
+  "yAxis": "ציר Y",
+  "zAxis": "ציר Z",
+  "domain": "תחום",
+  "range": "טווח",
+  "gridLines": "קווי רשת",
+  "axisLabels": "תוויות צירים",
+  "legend": "מקרא",
+  "graphTitle": "כותרת גרף",
+  "generateFromFormula": "צור מנוסחה",
+  "customizeGraph": "התאם גרף",
+  "saveGraph": "שמור גרף",
+  "insertGraph": "הכנס גרף",
+  "aiSummary": "סיכום בינה מלאכותית",
+  "keyPoints": "נקודות מפתח",
+  "mainTopics": "נושאים עיקריים",
+  "actionItems": "פריטי פעולה",
+  "summaryLength": "אורך סיכום",
+  "short": "קצר",
+  "medium": "בינוני",
+  "long": "ארוך",
+  "detailed": "מפורט",
+  "generateSummary": "צור סיכום",
+  "saveSummary": "שמור סיכום",
+  "appendSummary": "הוסף סיכום",
+  "replaceSummary": "החלף סיכום",
+  "featureComingSoon": "תכונה בקרוב",
+  "@featureComingSoon": {
+    "description": "Message for features that are not yet implemented"
+  },
+  "deleteAllData": "מחק את כל הנתונים",
+  "@deleteAllData": {
+    "description": "Delete all data option"
+  },
+  "permanentlyDeleteAllData": "מחק לצמיתות את כל הפתקים, המחברות והתגיות",
+  "@permanentlyDeleteAllData": {
+    "description": "Description for delete all data option"
+  },
+  "deleteAllDataWarning": "פעולה זו לא ניתנת לביטול. כל הנתונים שלך יימחקו לצמיתות.",
+  "@deleteAllDataWarning": {
+    "description": "Warning message for delete all data"
+  },
+  "allDataDeleted": "כל הנתונים נמחקו בהצלחה",
+  "@allDataDeleted": {
+    "description": "Confirmation message after deleting all data"
+  },
+  "cacheCleared": "המטמון נוקה בהצלחה",
+  "@cacheCleared": {
+    "description": "Confirmation message after clearing cache"
+  },
+  "theme": "ערכת נושא",
+  "@theme": {
+    "description": "Theme settings section title"
+  },
+  "selectTheme": "בחר ערכת נושא",
+  "@selectTheme": {
+    "description": "Title for theme selection dialog"
+  },
+  "systemTheme": "ערכת נושא של המערכת",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  "syncNotesAcrossDevices": "סנכרן הערות בין מכשירים",
+  "@syncNotesAcrossDevices": {
+    "description": "Description for cloud sync feature"
+  },
+  "selectLanguage": "בחר שפה",
+  "@selectLanguage": {
+    "description": "Title for language selection dialog"
+  },
+  "termsOfService": "תנאי שירות",
+  "@termsOfService": {
+    "description": "Label for terms of service"
+  },
+  "readTermsOfService": "קרא תנאי שירות",
+  "@readTermsOfService": {
+    "description": "Subtitle for terms of service section"
+  },
+  "privacyPolicy": "מדיניות פרטיות",
+  "@privacyPolicy": {
+    "description": "Label for privacy policy"
+  },
+  "readPrivacyPolicy": "קרא מדיניות פרטיות",
+  "@readPrivacyPolicy": {
+    "description": "Subtitle for privacy policy section"
+  },
+  "appVersion": "גרסת האפליקציה",
+  "@appVersion": {
+    "description": "Label for app version"
+  },
+  "clearCache": "נקה מטמון",
+  "@clearCache": {
+    "description": "Label for clear cache button"
+  },
+  "clearTemporaryFiles": "נקה קבצים זמניים ונתונים במטמון",
+  "@clearTemporaryFiles": {
+    "description": "Subtitle for clear cache section"
+  },
+  "storageUsage": "שימוש באחסון",
+  "@storageUsage": {
+    "description": "Label for storage usage"
+  },
+  "viewStorageUsage": "צפה במידע מפורט על שימוש באחסון",
+  "@viewStorageUsage": {
+    "description": "Subtitle for storage usage section"
+  },
+  "storage": "אחסון",
+  "@storage": {
+    "description": "Label for storage section"
+  },
+  "enableSpellChecking": "הפעל בדיקת איות אוטומטית בזמן הקלדה",
+  "@enableSpellChecking": {
+    "description": "Subtitle for spell check setting"
+  },
+  "spellCheck": "בדיקת איות",
+  "@spellCheck": {
+    "description": "Label for spell check setting"
+  },
+  "automaticallySaveChanges": "שמור שינויים אוטומטית בזמן הקלדה",
+  "@automaticallySaveChanges": {
+    "description": "Subtitle for auto save setting"
+  },
+  "autoSave": "שמירה אוטומטית",
+  "@autoSave": {
+    "description": "Label for auto save setting"
+  },
+  "setDefaultFontSize": "קבע את גודל הגופן ברירת המחדל עבור הערות חדשות",
+  "@setDefaultFontSize": {
+    "description": "Subtitle for font size setting"
+  },
+  "defaultFontSize": "גודל גופן ברירת מחדל",
+  "@defaultFontSize": {
+    "description": "Label for default font size setting"
+  },
+  "editor": "עורך",
+  "@editor": {
+    "description": "Label for editor section"
+  },
+  "configureAiApiKey": "הגדר את מפתח ה-API של הבינה המלאכותית עבור תכונות משופרות",
+  "@configureAiApiKey": {
+    "description": "Subtitle for AI API key setting"
+  },
+  "aiPoweredNoteSummaries": "סיכומי הערות מבוססי בינה מלאכותית",
+  "@aiPoweredNoteSummaries": {
+    "description": "Subtitle for note summarization setting"
+  },
+  "autoGenerateGraphsFromFormulas": "יצירה אוטומטית של גרפים מנוסחאות מתמטיות",
+  "@autoGenerateGraphsFromFormulas": {
+    "description": "Subtitle for math graph generation setting"
+  },
+  "notebookDeleted": "המחברת נמחקה בהצלחה",
+  "@notebookDeleted": {
+    "description": "Success message when a notebook is deleted"
+  },
+  "noteDeleted": "ההערה נמחקה בהצלחה",
+  "@noteDeleted": {
+    "description": "Success message when a note is deleted"
+  },
+  "errorDeletingNotebook": "שגיאה במחיקת המחברת",
+  "@errorDeletingNotebook": {
+    "description": "Error message when notebook deletion fails"
+  }
+}

@@ -1,0 +1,107 @@
+name: mathnotes
+description: "A comprehensive note-taking app with handwriting, AI, and math support."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI and Icons
+  cupertino_icons: ^1.0.8
+  material_design_icons_flutter: ^7.0.7296
+  
+  # Drawing and Handwriting
+  signature: ^5.4.0
+  flutter_drawing_board: 0.9.8
+  perfect_freehand: ^2.0.4
+  
+  # State Management
+  provider: ^6.1.2
+  riverpod: ^2.5.1
+  flutter_riverpod: ^2.5.1
+  
+  # Database and Storage
+  sqflite: ^2.3.3+1
+  sqflite_common_ffi: ^2.3.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.3
+  
+  # Cloud Storage and Sync
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+  cloud_firestore: ^5.2.1
+  firebase_storage: ^12.1.3
+  google_sign_in: ^6.2.1
+  googleapis: ^13.2.0
+  googleapis_auth: ^1.6.0
+  
+  # Network requests
+  http: ^1.2.2
+  flutter_secure_storage: ^9.2.2
+  
+  # Math and Graphs
+  fl_chart: ^0.68.0
+  math_expressions: ^2.6.0
+  function_tree: ^0.9.0
+  
+  # Internationalization
+  intl: any
+  
+  # Rich Text Editing
+  flutter_quill: ^10.5.16
+  flutter_colorpicker: ^1.0.3
+  
+  # File handling
+  file_picker: ^8.0.6
+  image_picker: ^1.1.2
+  
+  # PDF and Export
+  pdf: ^3.11.0
+  printing: ^5.12.0
+  
+  # Utilities
+  uuid: ^4.4.2
+  share_plus: ^10.0.0
+  url_launcher: ^6.3.0
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_gen: ^5.10.0
+  flutter_localizations:
+    sdk: flutter
+  go_router: ^15.1.2
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.12
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  uses-material-design: true
+  generate: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/models/
+    - assets/fonts/
+  fonts:
+    - family: FontAwesome5
+      fonts:
+      - asset: assets/fonts/FontAwesome5.ttf
+    - family: FontAwesome4
+      fonts:
+      - asset: assets/fonts/FontAwesome4.ttf
+    - family: NerdfontSymbols
+      fonts:
+      - asset: assets/fonts/NerdfontSymbols.ttf
